@@ -19,3 +19,5 @@ plot(r)
 % ho aggiunto questa
 
 % tra poco mangio
+
+% frase aggiunta il 27 agosto h 10:58

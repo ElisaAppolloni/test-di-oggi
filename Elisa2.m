@@ -8,18 +8,4 @@ plot(r)
 r = normrnd(1,1,[1 140]);
 plot(r)
 
-% aggiungo questo commento ora
 
-% added another comment
-
-% Marcello's comment from his branch
-
-% aggiungo ciao
-
-% ho aggiunto questa
-
-% tra poco mangio
-
-% frase aggiunta il 27 agosto h 10:58
-
-% aggiungo frase da sonny

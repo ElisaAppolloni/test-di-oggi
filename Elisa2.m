@@ -21,3 +21,5 @@ plot(r)
 % tra poco mangio
 
 % frase aggiunta il 27 agosto h 10:58
+
+% aggiungo frase da sonny

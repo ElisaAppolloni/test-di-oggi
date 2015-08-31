@@ -8,10 +8,3 @@ plot(r)
 r = normrnd(1,1,[1 140]);
 plot(r)
 
-
-% prova
-
-% aggiunta da github.com
-
-% nuova frase da github.com
-

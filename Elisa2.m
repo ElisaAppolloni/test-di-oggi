@@ -14,3 +14,8 @@ plot(r)
 
 % aggiungo frase
 % Frase di Marcello
+
+S = normrnd(1,1,[1 140]);
+plot(S)
+
+% ciao
